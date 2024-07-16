@@ -1,7 +1,11 @@
 <h1 align='center'>Welcome</h1> 
-<h2 align='center'>About me</h2>
-<p align='center'>Passionate about development, data science, I'm 18 and my hobbies are programming, online gaming, music and video editing.</p>
-<div align="center">
+<h2 align="center" style="color: #800080;">💬 About me</h2>
+
+<div>
+  <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/fGAUjwYQkg4AAAAC/gaara.gif"/>
+  
+  <div>
+    <p>Passionate about development,<br> data science, I'm 18 and my hobbies are programming,<br> online gaming, music and video editing.</p>
   <a href="https://github.com/tzGui">
   <img height="180em" style=border_radius="20" src="https://github-readme-stats.vercel.app/api?username=tzGui&theme=dracula"/>
     <img height="160em" aligh="right" style=border_radius="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzGui&layout=compact&langs_count=7&theme=dracula"/>

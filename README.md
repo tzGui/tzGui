@@ -1,6 +1,6 @@
 <h1 align='center'>Welcome</h1> 
 <h2 align='center'>About me</h2>
-<p align='center'>Passionate about development, I'm 18 and my hobbies are programming, online gaming, music and video editing</p>
+<p align='center'>Passionate about development, I'm 19 and my hobbies are programming, online gaming, music and video editing</p>
 <div align="center">
   <a href="https://github.com/tzGui">
   <img height="180em" style=border_radius="20" src="https://github-readme-stats.vercel.app/api?username=tzGui&theme=dracula"/>
